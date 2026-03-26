@@ -1,8 +1,11 @@
 # baekTeam
+이름: 정영우
 
+url: https://github.com/youngwoo011 
+=======
 
 - **김미리** : https://github.com/kimmiri1234
--**팀원이름** : hunhee22  
+-**깃허브 이름** : hunhee22  
 ---
 ### 팀 url
 - **팀명** : team only man
